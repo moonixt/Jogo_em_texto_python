@@ -1,2 +1,1 @@
-# Primeiro_uso
-Práticas pessoais
+# Jogo de texto simples 🦎
